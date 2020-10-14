@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background-image: url(https://i.pinimg.com/originals/12/9d/af/129dafe2caf8b9e1fb312c0a3e97456a.jpg);
+	font-size: 1em;
+	line-height: 1.5em;
+	
+	padding-top: 80px;
+}
+
+h2{
+	color: yellow;
+}
+
+h1 {
+	color: orange;
+}
+h3{
+	color: pink;
+}
+
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: green;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }

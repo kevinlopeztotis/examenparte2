@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;S
+}
+body{background-image: url(https://img.freepik.com/vector-gratis/fondo-geometrico-azul-abstracto_23-2148594525.jpg?size=626&ext=jpg);
+}
+H1{
+	font-size: 20;
+	color: white;
+}
+
+h2{
+	font-size: 30;
+	color: black;
+}
